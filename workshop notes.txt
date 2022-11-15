@@ -1,0 +1,6 @@
+-->Here im going to show how to connect the 3different servers in same region by using
+Transit gateways.
+-->First we will login the console and go to VPC's and check is there any default VPC is
+available or not, If it is available remove that default one.
+--> and then create one Vpc and the go to subnets andcreate one subnet under the VPC.
+-->
